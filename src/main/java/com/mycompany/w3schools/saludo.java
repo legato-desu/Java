@@ -1,8 +1,5 @@
 package com.mycompany.w3schools;
 
-/* The code below will print the words Hello World
-to the screen, and it is amazing */
-
 public class saludo {
 
     public static void main(String[] args) {
