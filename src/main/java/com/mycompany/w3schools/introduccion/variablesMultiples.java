@@ -1,4 +1,4 @@
-package com.mycompany.w3schools;
+package com.mycompany.w3schools.introduccion;
 
 public class variablesMultiples {
 

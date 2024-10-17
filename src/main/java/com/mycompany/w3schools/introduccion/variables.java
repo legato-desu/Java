@@ -1,4 +1,4 @@
-package com.mycompany.w3schools;
+package com.mycompany.w3schools.introduccion;
 
 /* Variables Java
 Las variables son contenedores para almacenar valores de datos.
